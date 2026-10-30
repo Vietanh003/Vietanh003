@@ -12,13 +12,13 @@
   <!-- BADGES & PROFILE VIEWS -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=7928CA" alt="Profile Views" />
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:vanhdz246@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-00DFD8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/YOUR_LINKEDIN">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/Vietanh003">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
